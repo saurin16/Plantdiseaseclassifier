@@ -1,1 +1,3 @@
 # Plantdiseaseclassifier
+
+A model was developed for image processing aimed at identifying signs of sick leaves. This involved several steps, including data processing, augmentation, and feature extraction. The dataset was processed and augmented to enhance its diversity and improve the model's ability to generalize. Utilizing Convolutional Neural Networks (CNNs), the processed leaf images were categorized into two distinct categories: "potato early blight" and "potato late blight". CNNs are particularly well-suited for image classification tasks due to their ability to capture spatial hierarchies of features. By leveraging CNNs, the model was able to effectively classify the processed leaf images, aiding in the early detection and management of plant diseases
